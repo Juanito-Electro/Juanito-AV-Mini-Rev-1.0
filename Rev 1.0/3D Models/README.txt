@@ -1,1 +1,1 @@
-This folder contains all the 3D models for the AV Mini Rev 1.0 system. The file type will usually be .STEP.
+This folder contains all the 3D models for the AV Mini Rev 1.0 system. The file type will usually be .STEP. The model will show the PCB and all electronic components. Some details such as text overlay might be absent.
